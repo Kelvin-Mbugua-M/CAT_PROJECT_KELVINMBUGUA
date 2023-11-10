@@ -1,0 +1,6 @@
+#logoimages{
+    display:inline-block;
+    flex-direction: column;
+    height: 50px;
+    width:auto;
+}

@@ -1,11 +1,15 @@
 #footer /*affects the general footers in all the pages */{
     background-color: #00008b;
-    width: 100vw;
-    margin-left: 0%;
-    margin-bottom: 0%;
-    margin-right: 0%;
-    bottom: 0%; 
-    position: fixed;
+    height: 60px;
+    width:inherit;
+    padding:none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#footer_images{
+    display: flex;
+    padding-left: 90px;
 }
 /*about.html*/
 #skills_container{

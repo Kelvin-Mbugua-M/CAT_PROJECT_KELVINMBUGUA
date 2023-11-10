@@ -1,4 +1,4 @@
-#footer{
+#footer /*affects the general footers in all the pages */{
     background-color: #00008b;
     width: 100vw;
     margin-left: 0%;
@@ -6,4 +6,25 @@
     margin-right: 0%;
     bottom: 0%; 
     position: fixed;
+}
+/*about.html*/
+#skills_container{
+    display: block;
+}
+#skills_list >li{
+    list-style-type: style;
+    display: flex;
+    flex-direction: column;
+}
+/*contact.html*/
+#text_area{
+    height:20px;
+    width:400px;
+    mix-blend-mode: lighten;
+    opacity:0.3;
+    color: darkturquoise;
+}
+#text_area_input{
+    opacity:0.2;
+    color: darkturquoise;
 }

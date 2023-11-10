@@ -7,7 +7,6 @@ html{
     background-size: cover;
     background-position: fixed;
     display:flex;
-    align-items: center;
 }
 /*services.html*/
 .services{
@@ -20,4 +19,9 @@ html{
     display: flex;
     flex-direction: column !important;
     margin: auto 20PX;
+    
+}
+.landing>p{
+    font-size: 120px;
+    justify-content: center;
 }

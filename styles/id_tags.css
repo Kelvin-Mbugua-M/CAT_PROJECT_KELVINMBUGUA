@@ -22,9 +22,24 @@
     width:400px;
     mix-blend-mode: lighten;
     opacity:0.3;
-    color: darkturquoise;
+    background-color: aliceblue;
+    color:aliceblue;
 }
 #text_area_input{
-    opacity:0.2;
-    color: darkturquoise;
+    opacity:0.5;
+    color:black;
+    border: none;
+}
+/*service.html*/
+#services_container{
+    height: 400px;
+    width:600px;
+    background-color: aliceblue;
+    border-radius: 20px;
+    opacity:0.15;
+    display: flex;
+    align-items: center;
+    right:200px;
+    margin-left:200px;
+    margin-top: 150px;
 }

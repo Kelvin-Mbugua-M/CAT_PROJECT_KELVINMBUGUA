@@ -1,11 +1,11 @@
 header nav {
     display: flex;
-    width: 110vw;
+    width: 97.5vw;
     height: 60px;
     background:  aqua;
     justify-items: space-between;
     align-items: center;
-    padding: 10px;
+    padding: 12px;
     position: sticky; 
     top: 0%;
 }

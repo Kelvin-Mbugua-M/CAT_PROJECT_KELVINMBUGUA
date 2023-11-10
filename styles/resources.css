@@ -11,4 +11,11 @@
     justify-content: center;
     align-items: center;
 }
-
+#profile{
+    height: 400px;
+    width: auto;
+    align-items: center;
+    left:200px;
+    margin-left: 300px;
+    position: relative; 
+}

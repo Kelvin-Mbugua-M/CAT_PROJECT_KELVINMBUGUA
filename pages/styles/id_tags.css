@@ -1,0 +1,63 @@
+#footer /*affects the general footers in all the pages */{
+    background-color: #00008b;
+    height: 60px;
+    width:100vw;
+    padding:none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: fixed;
+    bottom: -1px;;
+}
+#footer_images{
+    display: flex;
+    padding-left: 90px;
+}
+/*about.html*/
+#skills_list>li{
+    position: relative;
+    display:flex;
+    flex-direction: row;
+    list-style: inside;
+}
+#skills_container>h1{
+    display: flex;
+    font-weight: 700;
+    font-size:120px ;
+    justify-content: center;
+    -webkit-text-stroke: 0.3vw #00008b;
+}
+#skills_container>h1:after{
+    -webkit-text-stroke: 0vw #383d52;
+    border-right:2px solid #00008b;
+
+}
+/*contact.html*/
+#text_area{
+    height:20px;
+    width:400px;
+    mix-blend-mode: lighten;
+    opacity:0.3;
+    background-color: aliceblue;
+    color:aliceblue;
+}
+#text_area_input{
+    opacity:0.5;
+    color:black;
+    border: none;
+}
+/*service.html*/
+#services_container{
+    height: 400px;
+    width:600px;
+    background-color: aliceblue;
+    border-radius: 20px;
+    opacity:0.15;
+    display: flex;
+    align-items: center;
+    right:200px;
+    margin-left:200px;
+    margin-top: 150px;
+}
+/*index.html*/
+

@@ -1,0 +1,27 @@
+html{
+    overflow: auto;
+    scroll-margin: none;
+    background-color: #000;
+    color: aliceblue;
+    background-image: url("/resources/images/coralreefback.jpg");
+    background-size: cover;
+    background-position: fixed;
+    display:flex;
+}
+/*services.html*/
+.services{
+    color:black !important;
+    opacity:none !important ;
+    font-size: larger !important;
+}
+/*index.html*/
+.landing{
+    display: flex;
+    flex-direction: column !important;
+    margin: auto 20PX;
+    
+}
+.landing>p{
+    font-size: 120px;
+    justify-content: center;
+}

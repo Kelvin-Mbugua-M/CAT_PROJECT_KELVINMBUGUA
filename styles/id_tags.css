@@ -27,12 +27,9 @@
     justify-content: center;
     -webkit-text-stroke: 0.3vw #00008b;
 }
-#skills_container>h1:before{
-    
-}
 #skills_container>h1:after{
     -webkit-text-stroke: 0vw #383d52;
-    border-right:2px solid:
+    border-right:2px solid;
 
 }
 /*contact.html*/

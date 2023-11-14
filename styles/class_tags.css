@@ -3,7 +3,7 @@ html{
     scroll-margin: none;
     background-color: #000;
     color: aliceblue;
-    background-image: url("/resources/images/coralreefback.jpg");
+    background-image: url("resources/images/coralreefback.jpg");
     background-size: cover;
     background-position: fixed;
     display:flex;

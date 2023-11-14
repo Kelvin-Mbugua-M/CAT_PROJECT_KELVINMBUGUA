@@ -1,7 +1,7 @@
 #footer /*affects the general footers in all the pages */{
     background-color: #00008b;
     height: 60px;
-    width:100vw;
+    width:100%;
     padding:none;
     display: flex;
     align-items: center;
